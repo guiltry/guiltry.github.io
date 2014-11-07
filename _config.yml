@@ -1,0 +1,16 @@
+# Site settings
+title: Guiltry Blog
+email: guiltry@gmail.com
+description: ""
+baseurl: ""
+url: "http://guiltry.com"
+twitter_username: guiltry
+github_username:  guiltry
+facebook_username:  guiltry
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["node_modules"]
