@@ -1,5 +1,6 @@
 # Site settings
-title: Guiltry Blog
+title: Blog | Guiltry
+name: guiltry
 email: guiltry@gmail.com
 description: ""
 baseurl: ""
